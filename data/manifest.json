@@ -1,1 +1,8 @@
-
+{
+  "tests": [
+    {
+      "name": "Komp. Arch egzamino ruošimasis",
+      "file": "komp-arch/questions.json"
+    }
+  ]
+}
